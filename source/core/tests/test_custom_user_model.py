@@ -4,7 +4,7 @@ from django.contrib.auth import get_user_model
 
 class CustomUserModelTestCase(TestCase):
     '''
-    Test Case: Custom User Model.
+    TEST CASES: Custom User Model.
     '''
 
     def test_user_created_via_email(self):
